@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm mugund10</h1>
 <h3 align="center">just a common golang developer</h3>
 
-- 🌱 I’m currently learning **Gin, Fiber, Goji**
+//- 🌱 I’m currently learning **Gin, Fiber, Goji**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
