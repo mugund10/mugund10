@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm mugund10</h1>
 <h3 align="center">just a common golang developer</h3>
-
-//- 🌱 I’m currently learning **Gin, Fiber, Goji**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mugund10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mugund10" height="30" width="40" /></a>
