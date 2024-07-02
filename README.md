@@ -4,13 +4,25 @@
 </div>
 
 
-```mermaid
-graph TD;
-    EAT-->CODE;
-    CODE-->SLEEP;
-    SLEEP-->EAT;
-    
-```
+#
+
+
+
+#
+
+
+
+<details>
+
+<summary>Dont Open</summary>
 
 > [!TIP]
 > keep calm and say வை டா கோ**
+
+</details>
+
+
+
+#
+
+#
