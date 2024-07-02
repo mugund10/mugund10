@@ -1,11 +1,12 @@
+#
+
 <div align="center">
     <img src="media/me.gif" alt="Me" style="max-width: 100%; height: auto;" />
 </div>
 
 
 
-#
-
+<div align="center">
 <br>
 <br>
 <br>
@@ -20,11 +21,10 @@
 </hr>
 </br>
 </br>
-</br>
+</div>
 
 #
-
-
+#
 
 
 
