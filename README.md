@@ -12,14 +12,11 @@
 
 
 
-<details>
 
-<summary>Dont Open</summary>
 
 > [!TIP]
 > keep calm and say வை டா கோ**
 
-</details>
 
 
 
