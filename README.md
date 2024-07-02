@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
     <img src="media/me.gif" alt="Me" style="max-width: 100%; height: auto;" />
 </div>
 
