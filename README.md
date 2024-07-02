@@ -1,13 +1,9 @@
-<div style="background-image: url('https://raw.githubusercontent.com/mugund10/mugund10/main/media/bg.gif'); background-size: cover; height: 400px; display: flex; justify-content: center; align-items: center;">
-    <div style="width: 600px; display: flex; justify-content: space-between;">
-        <div style="text-align: right;">
-            <img src="media/giphy.webp" alt="Description of the image" style="vertical-align: middle;">
-        </div>
-        <div style="text-align: center;">
-            <img src="media/giphy.webp" alt="Description of the image" style="vertical-align: middle;">
-        </div>
-        <div style="text-align: left;">
-            <img src="media/giphy.webp" alt="Description of the image" style="vertical-align: middle;">
-        </div>
-    </div>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/mugund10/mugund10/main/media/bg.gif" alt="Background Image" width="400" height="400">
+</div>
+
+<div align="center">
+    <img src="media/giphy.webp" alt="Description of the image" width="200" style="margin-right: 20px;">
+    <img src="media/giphy.webp" alt="Description of the image" width="200" style="margin-right: 20px;">
+    <img src="media/giphy.webp" alt="Description of the image" width="200">
 </div>
