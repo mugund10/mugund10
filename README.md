@@ -1,1 +1,1 @@
-![](media/tenor.gif)
+![](media/giphy.webp)
