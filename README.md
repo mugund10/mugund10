@@ -8,8 +8,8 @@
 graph TD;
     EAT-->CODE;
     CODE-->SLEEP;
-    SLEEP-->CODE;
-    CODE-->EAT;
+    SLEEP-->EAT;
+    
 ```
 
 > [!TIP]
