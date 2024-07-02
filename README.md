@@ -1,7 +1,7 @@
-<div style="display: flex; align-items: center;">
-    <img src="media/me.gif"">
-
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="media/me.gif" alt="Me" style="max-width: 100%; height: auto;" />
 </div>
+
 
 
 #
