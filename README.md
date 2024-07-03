@@ -28,7 +28,7 @@
 
 
 > [!TIP]
-> keep calm and say வை டா கோ**
+> when something is out of controll just keep calm and say வை டா கோ**
 
 
 
