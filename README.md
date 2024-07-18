@@ -1,3 +1,5 @@
+![](https://hit.yhype.me/github/profile?user_id=53274246)
+
 #
 
 <div align="center">
@@ -18,7 +20,7 @@
 <b>Hello , I am mugund10 (mugundhan)</b>
 
 <a > a gopher </a>
-![](https://hit.yhype.me/github/profile?user_id=53274246)
+
 <p>
  */
 </p>
