@@ -1,10 +1,40 @@
+#
+
+<div align="center">
+    <img src="media/me.gif" alt="Me" style="max-width: 100%; height: auto;" />
+</div>
+
+
+
+<div align="center">
+
+<hr>
+   
+<p>
+ /*
+</p>
+<p>  
+
+<b>Hello , I am mugund10 (mugundhan)</b>
+
+<a > a gopher </a>
+<p>
+ */
+</p>
+</div>
+
+#
+
+
+
 > [!TIP]
 > keep calm and say வை டா கோ**
 
-<p align="center">
-  <img src="/img/Go-Logo_Blue.png" alt="Image 1" width="30%" />
-  <img src="/img/rust-logo.png" alt="Image 2" width="30%" />
-</p>
+
+
+
+#
+
 
 
 <!--
