@@ -2,7 +2,7 @@
 > keep calm and say வை டா கோ**
 
 <p align="center">
-  <img src="/img/Go-Logo_Blue.png" alt="Image 1" width="30%" />
+  <img src="/img/Go-Logo_Blue.png" alt="Image 1" width="20%" />
   <img src="/img/rust-logo.png" alt="Image 2" width="20%" />
 </p>
 
