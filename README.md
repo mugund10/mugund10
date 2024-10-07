@@ -2,7 +2,7 @@
 > keep calm and say வை டா கோ**
 
 <div align="center">
-<b>Currently Mastering</b>
+<b>Mastering Now</b>
 </div>
 <p align="center">
   <img src="/img/Go-Logo_Blue.png" alt="Image 1" width="10%" />
