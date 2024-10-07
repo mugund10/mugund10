@@ -9,7 +9,7 @@
 </div>
 
 <div align="center" style="border: 2px solid #ccc; padding: 10px; display: inline-block;">
-  <img src="/img/golang_cen.png" alt="golang" width="20%" style="margin: 0 10px;" />
+  <img src="/img/golang_cen.png" alt="golang" width="40%" style="margin: 0 10px;" />
   <img src="/img/rust.png" alt="rust" width="20%" style="margin: 0 10px;" />
   <img src="/img/dart.png" alt="dart" width="20%" style="margin: 0 10px;" />
   <img src="/img/julia_2.png" alt="julia" width="20%" style="margin: 0 10px;" />
