@@ -1,10 +1,14 @@
 > [!TIP]
 > keep calm and say வை டா கோ**
 
+<div align="center">
+<b>Currently Mastering</b>
+</div>
 <p align="center">
-  <img src="/img/Go-Logo_Blue.png" alt="Image 1" width="27%" />
-  <img src="/img/rust-logo.png" alt="Image 2" width="20%" />
+  <img src="/img/Go-Logo_Blue.png" alt="Image 1" width="10%" />
+  <img src="/img/rust-logo.png" alt="Image 2" width="8%" />
 </p>
+
 
 
 <!--
