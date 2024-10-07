@@ -5,14 +5,14 @@
 
 #
 
-<b>Mastering Now</b>
+<b>MASTERING</b>
 </div>
 
-<div align="center" style="border: 2px solid #ccc; padding: 10px; display: inline-block;">
-  <img src="/img/golang.png" alt="golang" width="20%" style="margin: 0 10px;" />
-  <img src="/img/rust.png" alt="rust" width="20%" style="margin: 0 10px;" />
-  <img src="/img/dart.png" alt="dart" width="20%" style="margin: 0 10px;" />
-  <img src="/img/julia.png" alt="julia" width="20%" style="margin: 0 10px;" />
+<div align="center">
+  <img src="/img/golang.png" alt="golang" width="20%" />
+  <img src="/img/rust.png" alt="rust" width="20%"  />
+  <img src="/img/dart.png" alt="dart" width="20%"  />
+  <img src="/img/julia.png" alt="julia" width="20%" />
 </div>
 
 #
