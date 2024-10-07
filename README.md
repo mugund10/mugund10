@@ -11,7 +11,7 @@
   <img src="/img/Go-Logo_Blue.png" alt="Image 1" width="10%" />
   <img src="/img/rust.png" alt="Image 2" width="9%" />
   <img src="/img/dart.png" alt="Image 3" width="8%" />
-  <img src="/img/julia_2.png" alt="Image 4" width="6%" />
+  <img src="/img/julia_2.png" alt="Image 4" width="9%" />
 </p>
 
 #
