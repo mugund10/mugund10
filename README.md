@@ -6,7 +6,7 @@
 </div>
 <p align="center">
   <img src="/img/Go-Logo_Blue.png" alt="Image 1" width="10%" />
-  <img src="/img/rust-logo.png" alt="Image 2" width="9%" />
+  <img src="/img/rust-logo.png" alt="Image 2" width="10%" />
 </p>
 
 
