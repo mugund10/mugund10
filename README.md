@@ -11,7 +11,8 @@
   <img src="/img/Go-Logo_Blue.png" alt="golang" width="10%" />
   <img src="/img/rust.png" alt="rust" width="9%" />
   <img src="/img/dart.png" alt="dart" width="7%" />
-  <img src="/img/julia_2.png" alt="julia" width="8%" style="margin-left: 30px;" />
+  <span style="margin-left: 20px;"></span>
+  <img src="/img/julia_2.png" alt="julia" width="8%" />
 </p>
 
 #
