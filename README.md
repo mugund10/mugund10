@@ -9,10 +9,9 @@
 </div>
 
 <p align="center">
-  <img src="/img/Go-Logo_Blue.png" alt="golang" width="10%" />
-  <img src="/img/rust.png" alt="rust" width="9%" />
-  <img src="/img/dart.png" alt="dart" width="7%" />
-  <div style="display: inline-block; width: 20px;"></div> <!-- Space between Dart and Julia -->
+  <img src="/img/Go-Logo_Blue.png" alt="golang" width="10%" style="margin-right: 10px;" /> <!-- Space after Go Logo -->
+  <img src="/img/rust.png" alt="rust" width="9%" style="margin-right: 10px;" /> <!-- Space after Rust Logo -->
+  <img src="/img/dart.png" alt="dart" width="7%" style="margin-right: 20px;" /> <!-- Space after Dart Logo -->
   <img src="/img/julia_2.png" alt="julia" width="8%" />
 </p>
 
