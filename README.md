@@ -2,6 +2,9 @@
 > keep calm and say வை டா கோ**
 
 <div align="center">
+
+#
+
 <b>Mastering Now</b>
 </div>
 <p align="center">
@@ -9,7 +12,7 @@
   <img src="/img/rust.png" alt="Image 2" width="9%" />
 </p>
 
-
+#
 
 <!--
 
